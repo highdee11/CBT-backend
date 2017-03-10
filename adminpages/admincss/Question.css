@@ -1,0 +1,19 @@
+.question-col
+{
+	background:white;
+	border:3px solid #e6e2e2;	
+	padding-top:10px;
+}
+.question-col-edit
+{
+	margin-bottom:10px;	
+}
+#edit_question_table tbody .btn
+{
+	
+}
+.table-responsive
+{
+	height:600px;
+	overflow:scroll;
+}
